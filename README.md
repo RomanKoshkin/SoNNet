@@ -1,7 +1,4 @@
 
-[![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress)
-
-
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 20px; width: 10%;">
     <img src="assets/HERO.webp" style="width: 10%;">
@@ -13,6 +10,7 @@
   </div>
 </div>
 
+[![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress)
 # Overview
 
 This is an implementation of a recurrent binary spiking neural network written in C++ easily configurable through a Python API. 
