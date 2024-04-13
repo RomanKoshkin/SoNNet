@@ -210,7 +210,7 @@ m.set_mex(0.3)    #
 
 # stimulator.train(40000, patternLenMs=patternLenMs, clusterize_=True, callback=callback, rwPatID=rwPatID, random_order_of_patterns=random_order_of_patterns)
 # stimulator.sham(20000, plasticity=False, clusterize_=True, callback=callback)
-stimulator.sham(30000, plasticity=True, clusterize_=True, callback=callback)
+stimulator.sham(400000, plasticity=True, clusterize_=True, callback=callback)
 
 
 # stimulator.perturb(1000, stID=0, enID=100, plasticity=True, clusterize_=False, callback=None)

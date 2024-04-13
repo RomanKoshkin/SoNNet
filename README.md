@@ -58,6 +58,11 @@ You can play around with different parameters and observe the network's emergent
 
 and **_more!_**
 
+## Training, perturbing and pinging
+
+Use the `train` method of the `Stimulator` class. You can also use the `ping` method of the same class to simulate small perturbations of a subset of neurons to test the robustness of the model's weight structure to perturbations. 
+
+
 # TODO
 
 - LIF neurons are already supported but LIF mode is not recommended yet.
