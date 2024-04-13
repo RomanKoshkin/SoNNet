@@ -4,7 +4,7 @@
 
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 20px; width: 10%;">
-    <img src="assets/HERO.webp" style="width: 50%;">
+    <img src="assets/HERO.webp" style="width: 10%;">
   </div>
   <div style="flex: 4; padding-left: 20px; width: 90%;">
     <h1 style="font-size: 2em; font-weight: bold; margin: 0;">
