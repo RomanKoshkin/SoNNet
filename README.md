@@ -1,4 +1,3 @@
-
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 20px; width: 10%;">
     <img src="assets/HERO.webp" style="width: 10%;">
