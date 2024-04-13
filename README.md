@@ -56,6 +56,8 @@ You can play around with different parameters and observe the network's emergent
 - STP parameters
   - facilitation and depression time constants
 
+and **_more!_**
+
 # TODO
 
 - LIF neurons are already supported but LIF mode is not recommended yet.
