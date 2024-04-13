@@ -16,19 +16,22 @@ This is an implementation of a recurrent binary spiking neural network written i
 
 # Quickstart
 
-Clone this repo.
+1) Clone this repo.
 
 ```bash
 git clone https://github.com/RomanKoshkin/SoNNet.git
+cd SoNNet
 ```
 
-Build the C++ core by running the build script:
+2) Install the `requirements.txt`.
+
+3) Build the C++ core by running the build script:
 
 ```bash
 sh scripts/build_pybind.sh openmp
 ```
 
-Run the demo script. 
+4) Run the demo script. 
 
 ```bash
 python selforg_demo.py
