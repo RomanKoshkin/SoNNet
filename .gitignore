@@ -1,0 +1,14 @@
+*/__pycache__/*
+__pycache__/*
+data/*
+!data/.keep
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
+*.ipynb
+videos/*
+!states/*.npy
+*.npy
+*.so
+dw_*
+*.pkl
+.vscode

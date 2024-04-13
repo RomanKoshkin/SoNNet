@@ -1,0 +1,20 @@
+# for Arial
+font.family: "sans-serif"
+font.sans-serif: "Arial"
+text.usetex: False
+# for latex:
+# font.family: "DejaVu Sans"
+# font.serif: "Computer Modern"
+# text.usetex: True
+
+lines.linewidth: 3
+xtick.direction: "out"
+ytick.direction: "out"
+axes.labelsize: 22
+xtick.labelsize: 22
+ytick.labelsize: 22
+font.size: 22
+legend.fontsize: 22
+axes.titlesize: 22
+animation.html: "jshtml"
+figure.autolayout: True
